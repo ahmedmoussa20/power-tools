@@ -3,3 +3,52 @@
 @media(max-width:1000px){.nav{gap:18px}.nav a{font-size:12px}.category-grid,.product-grid{grid-template-columns:repeat(3,1fr)}.brand-list{grid-template-columns:repeat(4,1fr)}.why-grid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.site-header,.nav-wrap{height:66px}.brand{width:72px;height:82px}.nav{display:none}.phone-pill{margin-right:auto;padding:10px 13px;font-size:12px}.menu-btn{display:block}.hero-grid{grid-template-columns:1fr;min-height:600px}.hero-copy{width:100%;margin:0;padding:55px 0 15px;text-align:center}.hero h1{font-size:38px}.hero p{font-size:14px}.hero-actions{justify-content:center;flex-wrap:wrap}.hero-visual{height:350px}.hero-card{height:240px}.feature-strip{grid-template-columns:repeat(2,1fr);gap:10px}.feature-strip>div{font-size:12px}.section{padding:55px 0}.section-heading h2{font-size:28px}.category-grid,.product-grid{grid-template-columns:repeat(2,1fr)}.category-card img{height:145px}.product-image{height:155px}.brand-list{grid-template-columns:repeat(2,1fr)}.cta-inner{flex-direction:column;text-align:center}.cta-actions{flex-wrap:wrap;justify-content:center}.location-grid{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr 1fr;gap:25px}.footer-brand{grid-column:1/-1}.footer-slogan{display:none}}
 @media(max-width:460px){.container{width:min(100% - 24px,1180px)}.phone-pill{font-size:11px}.hero h1{font-size:31px}.hero-visual{display:none}.category-grid,.product-grid{grid-template-columns:1fr 1fr;gap:8px}.category-card img{height:120px}.category-card h3{font-size:14px}.category-card p{font-size:10px}.product-image{height:125px}.product-card h3{font-size:13px}.filter{font-size:11px;padding:8px 12px}.why-grid{grid-template-columns:1fr 1fr}.why-card{padding:20px 8px}.why-card h3{font-size:14px}.footer-grid{grid-template-columns:1fr}.footer-brand{grid-column:auto}.contact-cta .btn{width:100%}.cta-actions{width:100%}}
+/* ===== HERO FULL WIDTH RIGHT ALIGN ===== */
+
+.hero .container{
+  width:100%;
+  max-width:none;
+  padding-left:40px;
+  padding-right:40px;
+}
+
+.hero-grid{
+  width:100%;
+  grid-template-columns:1fr;
+}
+
+.hero-copy{
+  width:62%;
+  max-width:none;
+  margin-right:0;
+  margin-left:auto;
+  padding:70px 0 40px;
+  text-align:right;
+}
+
+.hero h1{
+  text-align:right;
+}
+
+.hero p{
+  max-width:850px;
+  margin-right:0;
+  margin-left:auto;
+  text-align:right;
+}
+
+.hero-actions{
+  justify-content:flex-start;
+}
+
+/* FEATURES */
+.feature-strip{
+  width:100%;
+  direction:rtl;
+}
+
+.feature-strip > div{
+  justify-content:flex-start;
+  text-align:right;
+  direction:rtl;
+}
