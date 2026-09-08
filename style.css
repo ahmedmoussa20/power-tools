@@ -295,4 +295,144 @@
     font-size:12px;
   }
 }
+/* =========================================
+   CAROUSEL USER HINT
+   ========================================= */
 
+.product-carousel-wrap{
+  position:relative;
+}
+
+/* سحب باللمس أو الماوس */
+.product-grid{
+  touch-action:pan-y;
+  cursor:grab;
+}
+
+.product-grid.is-dragging{
+  cursor:grabbing;
+}
+
+
+/* =========================================
+   DOTS
+   ========================================= */
+
+.carousel-dots{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:9px;
+  margin:14px 0 0;
+  direction:ltr;
+}
+
+.carousel-dot{
+  width:10px;
+  height:10px;
+  padding:0;
+  border:0;
+  border-radius:50%;
+  background:#68757c;
+  opacity:.8;
+  cursor:pointer;
+  transition:
+    width .25s ease,
+    background .25s ease,
+    opacity .25s ease,
+    transform .25s ease;
+}
+
+.carousel-dot:hover{
+  opacity:1;
+  transform:scale(1.15);
+}
+
+.carousel-dot.active{
+  width:30px;
+  background:var(--yellow);
+  opacity:1;
+  border-radius:20px;
+}
+
+
+/* =========================================
+   SWIPE HINT
+   ========================================= */
+
+.carousel-hint{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  margin-top:15px;
+  color:#aeb8bd;
+  font-size:13px;
+  font-weight:700;
+  direction:rtl;
+}
+
+.carousel-hint::before{
+  content:"↔";
+  font-size:22px;
+  color:var(--yellow);
+  animation:swipeHint 1.5s ease-in-out infinite;
+}
+
+@keyframes swipeHint{
+  0%,100%{
+    transform:translateX(0);
+  }
+
+  50%{
+    transform:translateX(-8px);
+  }
+}
+
+
+/* =========================================
+   ARROWS
+   ========================================= */
+
+.carousel-arrow{
+  transition:
+    background .2s ease,
+    color .2s ease,
+    transform .2s ease;
+}
+
+.carousel-arrow:hover{
+  transform:translateY(-50%) scale(1.08);
+}
+
+
+/* =========================================
+   MOBILE
+   ========================================= */
+
+@media(max-width:760px){
+
+  .carousel-dots{
+    margin-top:12px;
+    gap:8px;
+  }
+
+  .carousel-dot{
+    width:9px;
+    height:9px;
+  }
+
+  .carousel-dot.active{
+    width:26px;
+  }
+
+  .carousel-hint{
+    font-size:12px;
+    margin-top:12px;
+  }
+
+  .carousel-hint::before{
+    font-size:20px;
+  }
+
+}
