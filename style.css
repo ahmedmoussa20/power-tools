@@ -436,3 +436,94 @@
   }
 
 }
+/* =========================================
+   MOBILE CAROUSEL HINT + DOTS
+   ========================================= */
+
+@media (max-width:760px){
+
+  /* مساحة كافية أسفل المنتجات */
+  .product-carousel-wrap{
+    width:100%;
+    padding-bottom:8px;
+  }
+
+  /* الـ Dots تظهر بوضوح */
+  .carousel-dots{
+    display:flex !important;
+    width:100%;
+    min-height:18px;
+    justify-content:center;
+    align-items:center;
+    gap:8px;
+    margin:16px auto 0;
+    visibility:visible !important;
+    opacity:1 !important;
+  }
+
+  .carousel-dot{
+    display:block !important;
+    width:9px !important;
+    height:9px !important;
+    min-width:9px;
+    padding:0;
+    margin:0;
+    border:0;
+    border-radius:50%;
+    background:#68757c;
+    opacity:1 !important;
+  }
+
+  .carousel-dot.active{
+    width:28px !important;
+    min-width:28px;
+    height:9px;
+    border-radius:20px;
+    background:var(--yellow);
+  }
+
+  /* رسالة السحب */
+  .carousel-hint{
+    display:flex !important;
+    width:100%;
+    justify-content:center;
+    align-items:center;
+    gap:8px;
+    margin:13px auto 0;
+    color:#b7c0c4;
+    font-size:12px;
+    font-weight:700;
+    text-align:center;
+    visibility:visible !important;
+    opacity:1 !important;
+  }
+
+  .carousel-hint::before{
+    content:"↔";
+    display:inline-block;
+    color:var(--yellow);
+    font-size:21px;
+    animation:mobileSwipeHint 1.4s ease-in-out infinite;
+  }
+
+  /* نخلي السحب باللمس واضح */
+  .product-grid{
+    touch-action:pan-y;
+    -webkit-overflow-scrolling:touch;
+  }
+
+}
+
+
+/* حركة علامة السحب */
+@keyframes mobileSwipeHint{
+
+  0%,100%{
+    transform:translateX(0);
+  }
+
+  50%{
+    transform:translateX(-7px);
+  }
+
+}
