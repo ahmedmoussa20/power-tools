@@ -1,0 +1,2382 @@
+[
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "حامل إلكترود Perfecta",
+    "description": "Perfecta Welding",
+    "image": "assets/catalog/welding-holder.png",
+    "search": "حامل إلكترود Perfecta SACIT Perfecta Welding WELD 01"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "حامل إلكترود 200A",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/earth-clamp-2.png",
+    "search": "حامل إلكترود 200A SACIT Heavy Duty WELD 02"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "حامل إلكترود 300A",
+    "description": "صناعي للورش",
+    "image": "assets/catalog/welding-torch.png",
+    "search": "حامل إلكترود 300A SACIT صناعي للورش WELD 03"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "حامل إلكترود 400A",
+    "description": "مستلزمات لحام",
+    "image": "assets/catalog/tungsten.png",
+    "search": "حامل إلكترود 400A SACIT مستلزمات لحام WELD 04"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "كماشة لحام أرضي",
+    "description": "Perfecta Welding",
+    "image": "assets/catalog/tungsten-2.png",
+    "search": "كماشة لحام أرضي SACIT Perfecta Welding WELD 05"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "مشبك أرضي Heavy Duty",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/welding-holder.png",
+    "search": "مشبك أرضي Heavy Duty SACIT Heavy Duty WELD 06"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "مشبك أرضي 300A",
+    "description": "صناعي للورش",
+    "image": "assets/catalog/earth-clamp-2.png",
+    "search": "مشبك أرضي 300A SACIT صناعي للورش WELD 07"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "مشبك أرضي 500A",
+    "description": "مستلزمات لحام",
+    "image": "assets/catalog/welding-torch.png",
+    "search": "مشبك أرضي 500A SACIT مستلزمات لحام WELD 08"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "شعلة لحام MIG",
+    "description": "Perfecta Welding",
+    "image": "assets/catalog/tungsten.png",
+    "search": "شعلة لحام MIG SACIT Perfecta Welding WELD 09"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "شعلة لحام TIG",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/tungsten-2.png",
+    "search": "شعلة لحام TIG SACIT Heavy Duty WELD 10"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "موزع سلك لحام",
+    "description": "صناعي للورش",
+    "image": "assets/catalog/welding-holder.png",
+    "search": "موزع سلك لحام SACIT صناعي للورش WELD 11"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "بكرة سلك لحام",
+    "description": "مستلزمات لحام",
+    "image": "assets/catalog/earth-clamp-2.png",
+    "search": "بكرة سلك لحام SACIT مستلزمات لحام WELD 12"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "فونية لحام نحاس",
+    "description": "Perfecta Welding",
+    "image": "assets/catalog/welding-torch.png",
+    "search": "فونية لحام نحاس SACIT Perfecta Welding WELD 13"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "غطاء شعلة لحام",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/tungsten.png",
+    "search": "غطاء شعلة لحام SACIT Heavy Duty WELD 14"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Diffuser لحام",
+    "description": "صناعي للورش",
+    "image": "assets/catalog/tungsten-2.png",
+    "search": "Diffuser لحام SACIT صناعي للورش WELD 15"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Contact Tip لحام",
+    "description": "مستلزمات لحام",
+    "image": "assets/catalog/welding-holder.png",
+    "search": "Contact Tip لحام SACIT مستلزمات لحام WELD 16"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Gas Nozzle",
+    "description": "Perfecta Welding",
+    "image": "assets/catalog/earth-clamp-2.png",
+    "search": "Gas Nozzle SACIT Perfecta Welding WELD 17"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "مقبض شعلة لحام",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/welding-torch.png",
+    "search": "مقبض شعلة لحام SACIT Heavy Duty WELD 18"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "طقم مستلزمات MIG",
+    "description": "صناعي للورش",
+    "image": "assets/catalog/tungsten.png",
+    "search": "طقم مستلزمات MIG SACIT صناعي للورش WELD 19"
+  },
+  {
+    "category": "welding",
+    "brand": "sacit",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "طقم مستلزمات TIG",
+    "description": "مستلزمات لحام",
+    "image": "assets/catalog/tungsten-2.png",
+    "search": "طقم مستلزمات TIG SACIT مستلزمات لحام WELD 20"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 9-125 زاوية تجليخ",
+    "description": "PROFESSIONAL",
+    "image": "assets/catalog/bosch-tool.jpg",
+    "search": "GWS 9-125 زاوية تجليخ BOSCH PROFESSIONAL BOSCH 01"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 1400 زاوية تجليخ",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/bosch-tool2.jpg",
+    "search": "GWS 1400 زاوية تجليخ BOSCH Heavy Duty BOSCH 02"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 17-125 S زاوية تجليخ",
+    "description": "أداء احترافي",
+    "image": "assets/catalog/bosch-tool3.jpg",
+    "search": "GWS 17-125 S زاوية تجليخ BOSCH أداء احترافي BOSCH 03"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 24-230 زاوية تجليخ",
+    "description": "للقطع والتجليخ",
+    "image": "assets/catalog/grinding-discs.png",
+    "search": "GWS 24-230 زاوية تجليخ BOSCH للقطع والتجليخ BOSCH 04"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 26-230 زاوية تجليخ",
+    "description": "PROFESSIONAL",
+    "image": "assets/catalog/saw-blades.png",
+    "search": "GWS 26-230 زاوية تجليخ BOSCH PROFESSIONAL BOSCH 05"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 2200 P زاوية تجليخ",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "GWS 2200 P زاوية تجليخ BOSCH Heavy Duty BOSCH 06"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GWS 700 زاوية تجليخ",
+    "description": "أداء احترافي",
+    "image": "assets/catalog/bosch-tool.jpg",
+    "search": "GWS 700 زاوية تجليخ BOSCH أداء احترافي BOSCH 07"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GBR 15 CA مجلخة خرسانة",
+    "description": "للقطع والتجليخ",
+    "image": "assets/catalog/bosch-tool2.jpg",
+    "search": "GBR 15 CA مجلخة خرسانة BOSCH للقطع والتجليخ BOSCH 08"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GKS 140 منشار دائري",
+    "description": "PROFESSIONAL",
+    "image": "assets/catalog/bosch-tool3.jpg",
+    "search": "GKS 140 منشار دائري BOSCH PROFESSIONAL BOSCH 09"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GKS 190 منشار دائري",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/grinding-discs.png",
+    "search": "GKS 190 منشار دائري BOSCH Heavy Duty BOSCH 10"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GKS 235 Turbo منشار دائري",
+    "description": "أداء احترافي",
+    "image": "assets/catalog/saw-blades.png",
+    "search": "GKS 235 Turbo منشار دائري BOSCH أداء احترافي BOSCH 11"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GST 90 BE منشار أركت",
+    "description": "للقطع والتجليخ",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "GST 90 BE منشار أركت BOSCH للقطع والتجليخ BOSCH 12"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GST 150 BCE منشار أركت",
+    "description": "PROFESSIONAL",
+    "image": "assets/catalog/bosch-tool.jpg",
+    "search": "GST 150 BCE منشار أركت BOSCH PROFESSIONAL BOSCH 13"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GSA 12-30 منشار ترددي",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/bosch-tool2.jpg",
+    "search": "GSA 12-30 منشار ترددي BOSCH Heavy Duty BOSCH 14"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GOP 18V-34 Multi-Cutter",
+    "description": "أداء احترافي",
+    "image": "assets/catalog/bosch-tool3.jpg",
+    "search": "GOP 18V-34 Multi-Cutter BOSCH أداء احترافي BOSCH 15"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GCD 18V-355 منشار قطع معادن",
+    "description": "للقطع والتجليخ",
+    "image": "assets/catalog/grinding-discs.png",
+    "search": "GCD 18V-355 منشار قطع معادن BOSCH للقطع والتجليخ BOSCH 16"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GBM 10 RE مثقاب",
+    "description": "PROFESSIONAL",
+    "image": "assets/catalog/saw-blades.png",
+    "search": "GBM 10 RE مثقاب BOSCH PROFESSIONAL BOSCH 17"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GSB 600 مثقاب طرق",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "GSB 600 مثقاب طرق BOSCH Heavy Duty BOSCH 18"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GGS 30 LS جلاخة مستقيمة",
+    "description": "أداء احترافي",
+    "image": "assets/catalog/bosch-tool.jpg",
+    "search": "GGS 30 LS جلاخة مستقيمة BOSCH أداء احترافي BOSCH 19"
+  },
+  {
+    "category": "fastening",
+    "brand": "bosch",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GCM 254 D منشار ميتري",
+    "description": "للقطع والتجليخ",
+    "image": "assets/catalog/bosch-tool2.jpg",
+    "search": "GCM 254 D منشار ميتري BOSCH للقطع والتجليخ BOSCH 20"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Solus 1000 Safety Glasses",
+    "description": "Industrial Safety",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Solus 1000 Safety Glasses 3M Industrial Safety 3M 01"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "SecureFit 500 Safety Glasses",
+    "description": "حماية مهنية",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "SecureFit 500 Safety Glasses 3M حماية مهنية 3M 02"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "SecureFit 400 Safety Glasses",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/3m-tool3.jpg",
+    "search": "SecureFit 400 Safety Glasses 3M للاستخدام الصناعي 3M 03"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Virtua CCS Safety Glasses",
+    "description": "Comfort & Protection",
+    "image": "assets/catalog/safety-glasses.png",
+    "search": "Virtua CCS Safety Glasses 3M Comfort & Protection 3M 04"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Virtua AP Safety Glasses",
+    "description": "Industrial Safety",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Virtua AP Safety Glasses 3M Industrial Safety 3M 05"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Solus 2000 Safety Glasses",
+    "description": "حماية مهنية",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Solus 2000 Safety Glasses 3M حماية مهنية 3M 06"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Peltor H510A Earplugs",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/3m-tool3.jpg",
+    "search": "Peltor H510A Earplugs 3M للاستخدام الصناعي 3M 07"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Peltor X1A Earmuffs",
+    "description": "Comfort & Protection",
+    "image": "assets/catalog/safety-glasses.png",
+    "search": "Peltor X1A Earmuffs 3M Comfort & Protection 3M 08"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Peltor X3A Earmuffs",
+    "description": "Industrial Safety",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Peltor X3A Earmuffs 3M Industrial Safety 3M 09"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Aura 9320A+ Respirator",
+    "description": "حماية مهنية",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Aura 9320A+ Respirator 3M حماية مهنية 3M 10"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Aura 9332A+ Respirator",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/3m-tool3.jpg",
+    "search": "Aura 9332A+ Respirator 3M للاستخدام الصناعي 3M 11"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "8210 N95 Respirator",
+    "description": "Comfort & Protection",
+    "image": "assets/catalog/safety-glasses.png",
+    "search": "8210 N95 Respirator 3M Comfort & Protection 3M 12"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "6200 Half Facepiece",
+    "description": "Industrial Safety",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "6200 Half Facepiece 3M Industrial Safety 3M 13"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "7502 Half Facepiece",
+    "description": "حماية مهنية",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "7502 Half Facepiece 3M حماية مهنية 3M 14"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "6000 Series Filters",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/3m-tool3.jpg",
+    "search": "6000 Series Filters 3M للاستخدام الصناعي 3M 15"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "2091 P100 Filters",
+    "description": "Comfort & Protection",
+    "image": "assets/catalog/safety-glasses.png",
+    "search": "2091 P100 Filters 3M Comfort & Protection 3M 16"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Versaflo Headtop",
+    "description": "Industrial Safety",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Versaflo Headtop 3M Industrial Safety 3M 17"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Speedglas Welding Lens",
+    "description": "حماية مهنية",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Speedglas Welding Lens 3M حماية مهنية 3M 18"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "GoggleGear Safety Goggles",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/3m-tool3.jpg",
+    "search": "GoggleGear Safety Goggles 3M للاستخدام الصناعي 3M 19"
+  },
+  {
+    "category": "safety",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Protective Face Shield",
+    "description": "Comfort & Protection",
+    "image": "assets/catalog/safety-glasses.png",
+    "search": "Protective Face Shield 3M Comfort & Protection 3M 20"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Auto-Lock Tape 5m",
+    "description": "دقة عالية",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "FatMax Auto-Lock Tape 5m STANLEY دقة عالية STANLEY 01"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Auto-Lock Tape 7.5m",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "FatMax Auto-Lock Tape 7.5m STANLEY متين للورش STANLEY 02"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Tape 8m",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "FatMax Tape 8m STANLEY FatMax STANLEY 03"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "PowerLock Tape 5m",
+    "description": "Measuring Tools",
+    "image": "assets/catalog/caliper.png",
+    "search": "PowerLock Tape 5m STANLEY Measuring Tools STANLEY 04"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "PowerLock Tape 7.5m",
+    "description": "دقة عالية",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "PowerLock Tape 7.5m STANLEY دقة عالية STANLEY 05"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "متر قياس 3m",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "متر قياس 3m STANLEY متين للورش STANLEY 06"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "متر قياس 5m",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "متر قياس 5m STANLEY FatMax STANLEY 07"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "متر قياس 8m",
+    "description": "Measuring Tools",
+    "image": "assets/catalog/caliper.png",
+    "search": "متر قياس 8m STANLEY Measuring Tools STANLEY 08"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "متر قياس 10m",
+    "description": "دقة عالية",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "متر قياس 10m STANLEY دقة عالية STANLEY 09"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Level 40cm",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "Level 40cm STANLEY متين للورش STANLEY 10"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Level 60cm",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "Level 60cm STANLEY FatMax STANLEY 11"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Level 80cm",
+    "description": "Measuring Tools",
+    "image": "assets/catalog/caliper.png",
+    "search": "Level 80cm STANLEY Measuring Tools STANLEY 12"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Level 100cm",
+    "description": "دقة عالية",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "Level 100cm STANLEY دقة عالية STANLEY 13"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "مربع نجارة 8 بوصة",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "مربع نجارة 8 بوصة STANLEY متين للورش STANLEY 14"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "مربع نجارة 12 بوصة",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "مربع نجارة 12 بوصة STANLEY FatMax STANLEY 15"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "منقلة قياس",
+    "description": "Measuring Tools",
+    "image": "assets/catalog/caliper.png",
+    "search": "منقلة قياس STANLEY Measuring Tools STANLEY 16"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Digital Caliper 150mm",
+    "description": "دقة عالية",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "Digital Caliper 150mm STANLEY دقة عالية STANLEY 17"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Vernier Caliper 200mm",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "Vernier Caliper 200mm STANLEY متين للورش STANLEY 18"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Laser Distance Meter",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "Laser Distance Meter STANLEY FatMax STANLEY 19"
+  },
+  {
+    "category": "measuring",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Metal Ruler 1m",
+    "description": "Measuring Tools",
+    "image": "assets/catalog/caliper.png",
+    "search": "Metal Ruler 1m STANLEY Measuring Tools STANLEY 20"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX 75A Extra Picking Paste",
+    "description": "Industrial Chemical",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX 75A Extra Picking Paste PILOX Industrial Chemical PILOX 01"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Pickling Paste 75A",
+    "description": "Stainless Steel Care",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Pickling Paste 75A PILOX Stainless Steel Care PILOX 02"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Stainless Steel Paste",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Stainless Steel Paste PILOX للاستخدام الصناعي PILOX 03"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Pickling Gel",
+    "description": "Surface Treatment",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Pickling Gel PILOX Surface Treatment PILOX 04"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Cleaning Paste",
+    "description": "Industrial Chemical",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Cleaning Paste PILOX Industrial Chemical PILOX 05"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Passivation Gel",
+    "description": "Stainless Steel Care",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Passivation Gel PILOX Stainless Steel Care PILOX 06"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Stainless Cleaner",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Stainless Cleaner PILOX للاستخدام الصناعي PILOX 07"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Metal Cleaner",
+    "description": "Surface Treatment",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Metal Cleaner PILOX Surface Treatment PILOX 08"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Surface Treatment",
+    "description": "Industrial Chemical",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Surface Treatment PILOX Industrial Chemical PILOX 09"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Welding Cleaner",
+    "description": "Stainless Steel Care",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Welding Cleaner PILOX Stainless Steel Care PILOX 10"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Pickling Spray",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Pickling Spray PILOX للاستخدام الصناعي PILOX 11"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Neutralizing Agent",
+    "description": "Surface Treatment",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Neutralizing Agent PILOX Surface Treatment PILOX 12"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Inox Cleaner",
+    "description": "Industrial Chemical",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Inox Cleaner PILOX Industrial Chemical PILOX 13"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Welding Stain Remover",
+    "description": "Stainless Steel Care",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Welding Stain Remover PILOX Stainless Steel Care PILOX 14"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Industrial Cleaner",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Industrial Cleaner PILOX للاستخدام الصناعي PILOX 15"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Rust Remover",
+    "description": "Surface Treatment",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Rust Remover PILOX Surface Treatment PILOX 16"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Degreaser",
+    "description": "Industrial Chemical",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Degreaser PILOX Industrial Chemical PILOX 17"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Surface Prep",
+    "description": "Stainless Steel Care",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Surface Prep PILOX Stainless Steel Care PILOX 18"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Stainless Care",
+    "description": "للاستخدام الصناعي",
+    "image": "assets/catalog/chemical-pilox.png",
+    "search": "PILOX Stainless Care PILOX للاستخدام الصناعي PILOX 19"
+  },
+  {
+    "category": "chemicals",
+    "brand": "pilox",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "factory"
+    ],
+    "global": true,
+    "name": "PILOX Workshop Chemical",
+    "description": "Surface Treatment",
+    "image": "assets/catalog/chemicals.png",
+    "search": "PILOX Workshop Chemical PILOX Surface Treatment PILOX 20"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 35 Electrical Tape",
+    "description": "Industrial Tape",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch 35 Electrical Tape 3M Industrial Tape 3M 01"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 33+ Electrical Tape",
+    "description": "للتثبيت والتغليف",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch 33+ Electrical Tape 3M للتثبيت والتغليف 3M 02"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 88T Electrical Tape",
+    "description": "High Performance",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Scotch 88T Electrical Tape 3M High Performance 3M 03"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 23 Rubber Splicing Tape",
+    "description": "Workshop Supply",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch 23 Rubber Splicing Tape 3M Workshop Supply 3M 04"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 130C Linerless Tape",
+    "description": "Industrial Tape",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch 130C Linerless Tape 3M Industrial Tape 3M 05"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 2228 Sealing Tape",
+    "description": "للتثبيت والتغليف",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Scotch 2228 Sealing Tape 3M للتثبيت والتغليف 3M 06"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 471 Floor Marking Tape",
+    "description": "High Performance",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch 471 Floor Marking Tape 3M High Performance 3M 07"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 764 General Purpose Tape",
+    "description": "Workshop Supply",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch 764 General Purpose Tape 3M Workshop Supply 3M 08"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 401E Masking Tape",
+    "description": "Industrial Tape",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Scotch 401E Masking Tape 3M Industrial Tape 3M 09"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 2090 Painter Tape",
+    "description": "للتثبيت والتغليف",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch 2090 Painter Tape 3M للتثبيت والتغليف 3M 10"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 600 Transparent Tape",
+    "description": "High Performance",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch 600 Transparent Tape 3M High Performance 3M 11"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 810 Magic Tape",
+    "description": "Workshop Supply",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Scotch 810 Magic Tape 3M Workshop Supply 3M 12"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 899 Duct Tape",
+    "description": "Industrial Tape",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch 899 Duct Tape 3M Industrial Tape 3M 13"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 897 Filament Tape",
+    "description": "للتثبيت والتغليف",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch 897 Filament Tape 3M للتثبيت والتغليف 3M 14"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 8953 Packaging Tape",
+    "description": "High Performance",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Scotch 8953 Packaging Tape 3M High Performance 3M 15"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 898 Filament Tape",
+    "description": "Workshop Supply",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch 898 Filament Tape 3M Workshop Supply 3M 16"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 9088 Double Sided Tape",
+    "description": "Industrial Tape",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch 9088 Double Sided Tape 3M Industrial Tape 3M 17"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch 9500PC Double Sided Tape",
+    "description": "للتثبيت والتغليف",
+    "image": "assets/catalog/3m-tool2.jpg",
+    "search": "Scotch 9500PC Double Sided Tape 3M للتثبيت والتغليف 3M 18"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch VHB 4910",
+    "description": "High Performance",
+    "image": "assets/catalog/tape-rolls.png",
+    "search": "Scotch VHB 4910 3M High Performance 3M 19"
+  },
+  {
+    "category": "tapes",
+    "brand": "3m",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Scotch VHB 5952",
+    "description": "Workshop Supply",
+    "image": "assets/catalog/3m-tool.jpg",
+    "search": "Scotch VHB 5952 3M Workshop Supply 3M 20"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Claw Hammer",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "FatMax Claw Hammer STANLEY FatMax STANLEY 01"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Ball Peen Hammer",
+    "description": "Hand Tools",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "FatMax Ball Peen Hammer STANLEY Hand Tools STANLEY 02"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Adjustable Wrench 10in",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "FatMax Adjustable Wrench 10in STANLEY متين للورش STANLEY 03"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "FatMax Adjustable Wrench 12in",
+    "description": "Professional Hand Tool",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "FatMax Adjustable Wrench 12in STANLEY Professional Hand Tool STANLEY 04"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Combination Pliers 8in",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "Combination Pliers 8in STANLEY FatMax STANLEY 05"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Long Nose Pliers 8in",
+    "description": "Hand Tools",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "Long Nose Pliers 8in STANLEY Hand Tools STANLEY 06"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Diagonal Cutting Pliers",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "Diagonal Cutting Pliers STANLEY متين للورش STANLEY 07"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Locking Pliers",
+    "description": "Professional Hand Tool",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "Locking Pliers STANLEY Professional Hand Tool STANLEY 08"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Screwdriver Set 10pc",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "Screwdriver Set 10pc STANLEY FatMax STANLEY 09"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Screwdriver Set 20pc",
+    "description": "Hand Tools",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "Screwdriver Set 20pc STANLEY Hand Tools STANLEY 10"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Ratchet Set 1/4in",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "Ratchet Set 1/4in STANLEY متين للورش STANLEY 11"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Socket Set 1/2in",
+    "description": "Professional Hand Tool",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "Socket Set 1/2in STANLEY Professional Hand Tool STANLEY 12"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Utility Knife FatMax",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "Utility Knife FatMax STANLEY FatMax STANLEY 13"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Retractable Knife",
+    "description": "Hand Tools",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "Retractable Knife STANLEY Hand Tools STANLEY 14"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Chisel Set",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "Chisel Set STANLEY متين للورش STANLEY 15"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Wood Chisel 20mm",
+    "description": "Professional Hand Tool",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "Wood Chisel 20mm STANLEY Professional Hand Tool STANLEY 16"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Wood Chisel 25mm",
+    "description": "FatMax",
+    "image": "assets/catalog/stanley-tool.jpg",
+    "search": "Wood Chisel 25mm STANLEY FatMax STANLEY 17"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Pipe Wrench 14in",
+    "description": "Hand Tools",
+    "image": "assets/catalog/stanley-tool2.jpg",
+    "search": "Pipe Wrench 14in STANLEY Hand Tools STANLEY 18"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Hex Key Set",
+    "description": "متين للورش",
+    "image": "assets/catalog/stanley-tool3.jpg",
+    "search": "Hex Key Set STANLEY متين للورش STANLEY 19"
+  },
+  {
+    "category": "handtools",
+    "brand": "stanley",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "Tool Bag FatMax",
+    "description": "Professional Hand Tool",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "Tool Bag FatMax STANLEY Professional Hand Tool STANLEY 20"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DWE402 Angle Grinder",
+    "description": "20V MAX",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "DWE402 Angle Grinder DEWALT 20V MAX DEWALT 01"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCD791 Drill Driver",
+    "description": "Professional",
+    "image": "assets/catalog/dewalt-tool2.jpg",
+    "search": "DCD791 Drill Driver DEWALT Professional DEWALT 02"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": true,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCD796 Hammer Drill",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/dewalt-tool3.jpg",
+    "search": "DCD796 Hammer Drill DEWALT Heavy Duty DEWALT 03"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCD996 Hammer Drill",
+    "description": "Jobsite Tool",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "DCD996 Hammer Drill DEWALT Jobsite Tool DEWALT 04"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCF887 Impact Driver",
+    "description": "20V MAX",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "DCF887 Impact Driver DEWALT 20V MAX DEWALT 05"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCF899 Impact Wrench",
+    "description": "Professional",
+    "image": "assets/catalog/dewalt-tool2.jpg",
+    "search": "DCF899 Impact Wrench DEWALT Professional DEWALT 06"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCF921 Compact Impact",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/dewalt-tool3.jpg",
+    "search": "DCF921 Compact Impact DEWALT Heavy Duty DEWALT 07"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCD709 Compact Drill",
+    "description": "Jobsite Tool",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "DCD709 Compact Drill DEWALT Jobsite Tool DEWALT 08"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCD999 FlexVolt Advantage",
+    "description": "20V MAX",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "DCD999 FlexVolt Advantage DEWALT 20V MAX DEWALT 09"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCS570 Circular Saw",
+    "description": "Professional",
+    "image": "assets/catalog/dewalt-tool2.jpg",
+    "search": "DCS570 Circular Saw DEWALT Professional DEWALT 10"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCS367 Reciprocating Saw",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/dewalt-tool3.jpg",
+    "search": "DCS367 Reciprocating Saw DEWALT Heavy Duty DEWALT 11"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCS334 Jigsaw",
+    "description": "Jobsite Tool",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "DCS334 Jigsaw DEWALT Jobsite Tool DEWALT 12"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCS356 Oscillating Tool",
+    "description": "20V MAX",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "DCS356 Oscillating Tool DEWALT 20V MAX DEWALT 13"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCS391 Circular Saw",
+    "description": "Professional",
+    "image": "assets/catalog/dewalt-tool2.jpg",
+    "search": "DCS391 Circular Saw DEWALT Professional DEWALT 14"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DCS565 Compact Circular Saw",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/dewalt-tool3.jpg",
+    "search": "DCS565 Compact Circular Saw DEWALT Heavy Duty DEWALT 15"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DWE7485 Table Saw",
+    "description": "Jobsite Tool",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "DWE7485 Table Saw DEWALT Jobsite Tool DEWALT 16"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DWS779 Miter Saw",
+    "description": "20V MAX",
+    "image": "assets/catalog/dewalt-tool.jpg",
+    "search": "DWS779 Miter Saw DEWALT 20V MAX DEWALT 17"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DWE6423 Random Orbit Sander",
+    "description": "Professional",
+    "image": "assets/catalog/dewalt-tool2.jpg",
+    "search": "DWE6423 Random Orbit Sander DEWALT Professional DEWALT 18"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DWHTTR350 Stapler",
+    "description": "Heavy Duty",
+    "image": "assets/catalog/dewalt-tool3.jpg",
+    "search": "DWHTTR350 Stapler DEWALT Heavy Duty DEWALT 19"
+  },
+  {
+    "category": "fastening",
+    "brand": "dewalt",
+    "status": "available",
+    "popular": false,
+    "audience": [
+      "workshop",
+      "factory"
+    ],
+    "global": true,
+    "name": "DWE315 Multi-Tool",
+    "description": "Jobsite Tool",
+    "image": "assets/catalog/hole-saw.png",
+    "search": "DWE315 Multi-Tool DEWALT Jobsite Tool DEWALT 20"
+  }
+]
